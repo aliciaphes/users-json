@@ -1,0 +1,53 @@
+[
+  {
+    "age": 28,
+    "name": "Maria",
+    "location": {
+      "country": "Brazil",
+      "city": "Sao Paulo",
+      "lat": -23.533773,
+      "lon": -46.62529
+    },
+    "movingTo": {
+      "country": "Germany",
+      "city": "Berlin",
+      "lat": 13.404954,
+      "lon": 52.520008
+    },
+    "skills": ["MySQL", "Ruby", "Rails"]
+  },
+  {
+    "age": 25,
+    "name": "Emilia",
+    "location": {
+      "country": "Germany",
+      "city": "Hamburg",
+      "lat": 53.551086,
+      "lon": 9.993682
+    },
+    "movingTo": {
+      "country": "Spain",
+      "city": "Mallorca",
+      "lat": 39.571625,
+      "lon": 2.650544
+    },
+    "skills": ["MongoDB", "Ruby", "Rails"]
+  },
+  {
+    "age": 37,
+    "name": "Somchai",
+    "location": {
+      "country": "Thailand",
+      "city": "Bangcok",
+      "lat": 13.736717,
+      "lon": 100.523186
+    },
+    "movingTo": {
+      "country": "Germany",
+      "city": "Hamburg",
+      "lat": 53.551086,
+      "lon": 9.993682
+    },
+    "skills": ["JavaScript", "React", "Typescript"]
+  }
+]
